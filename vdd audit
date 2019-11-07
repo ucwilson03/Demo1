@@ -1,13 +1,19 @@
 ---
-name: New Version Description Document
-about: Tell the CM experts about an upcoming software release
-title: "[PRODUCT] v[VERSION]"
-labels: VDD
+name: New Version Description Audit
+reviewer: Tell the CM experts about an upcoming software release
+product name: "[PRODUCT] v[VERSION]"
+reviewer(s): "[NAME] v[TITLE]"
 assignees: ''
 
 ---
+| Document Vevision History
+And
+Deliverable (Product) Version History | Example(s) |  Repository Type(s)    | Notes |
+|:----------------------------------|:--------------------------------------------------------------------|:-----------------|
+|VA Service Team| ⦁ Release Readiness Office<br> ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. |
+|VA Product| ⦁ BIO BIS <br>⦁ EPRS<br>⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 
-## New release VDD
+## New release VDD Audit
 
 Please check that you've completed the following, adding the appropriate version numbers and links to the checkbox items. See the Example Release below for details.
 
