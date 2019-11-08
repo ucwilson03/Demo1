@@ -6,14 +6,24 @@ reviewer(s): "[NAME] v[TITLE]"
 assignees: ''
 
 ---
+
 | Document Vevision History
 And
 Deliverable (Product) Version History | Example(s) |  Repository Type(s)    | Notes |
-|:----------------------------------|:--------------------------------------------------------------------|:-----------------|
+
+|:--------------------------|:--------------------------------------------------------------------|:-----------------|
 |VA Service Team| ⦁ Release Readiness Office<br> ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. |
 |VA Product| ⦁ BIO BIS <br>⦁ EPRS<br>⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 
-## New release VDD Audit
+## EPMO Configuration Management VDD Audit Sheet
+---
+name: New Version Description Audit
+reviewer: Tell the CM experts about an upcoming software release
+product name: "[PRODUCT] v[VERSION]"
+reviewer(s): "[NAME] v[TITLE]"
+assignees: ''
+
+---
 
 Please check that you've completed the following, adding the appropriate version numbers and links to the checkbox items. See the Example Release below for details.
 
@@ -56,3 +66,14 @@ Release notes:
 > Differences between this release and the previous baseline: https://github.com/department-of-veterans-affairs/reading-time-demo/compare/v1.0.165...v1.1.0
 
 -->
+
+Configuration Management Identification
+
+
+| Product Identification | Example(s)  |  Repository Type(s)    | Notes |
+|:-----------------------|:-------------|:--------------------------------------------------------------------|:-----------------|
+|VA Service Team| ⦁ EPMO CMD Offic<br> ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. |
+|VA Product| ⦁ BIO BIS <br>⦁ EPRS<br>⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
+|VA Infrastructure-only Product| ⦁ VA WiFi Lifecycle Refresh<br>⦁ Enterprise Endpoint Security|⦁ product repository<br>⦁ code-project repository| VA Infrastructure products can source control both documentation artifacts and Infrastructure-specific artifacts based on what is being delivered |
+|Other|
+
