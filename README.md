@@ -1,7 +1,7 @@
 ---
-name: New Version Description Audit
+name: Version Description Audit
 reviewer: Tell the CM experts about an upcoming software release
-product name: "[PRODUCT] v[VERSION]"
+product name: "[PRODUCT] v [VERSION]"
 reviewer(s): "[NAME] v[TITLE]"
 assignees: ''
 
