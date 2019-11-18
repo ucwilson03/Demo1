@@ -75,5 +75,6 @@ Configuration Management Identification
 |VA Service Team| ⦁ EPMO CMD Offic<br> ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. |
 |VA Product| ⦁ BIO BIS <br>⦁ EPRS<br>⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 |VA Infrastructure-only Product| ⦁ VA WiFi Lifecycle Refresh<br>⦁ Enterprise Endpoint Security|⦁ product repository<br>⦁ code-project repository| VA Infrastructure products can source control both documentation artifacts and Infrastructure-specific artifacts based on what is being delivered |
+
 |Other|
 
