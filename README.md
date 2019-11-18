@@ -1,8 +1,8 @@
 ---
 name: Version Description Audit
-reviewer: Tell the CM experts about an upcoming software release
-product name: "[PRODUCT] v [VERSION]"
-reviewer(s): "[NAME] v[TITLE]"
+document revision history: Tell the CM experts about an upcoming software release
+product version history: "[PRODUCT] v [VERSION]"
+product name: "[NAME] v [TITLE]"
 assignees: ''
 
 ---
