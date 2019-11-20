@@ -3,7 +3,7 @@ name: Version Description Audit
 document revision history: Tell the CM experts about an upcoming software release
 product version history: "[PRODUCT] v [VERSION]"
 product name: "[NAME] v [TITLE]"
-assignees: ''
+Configuration Manager: ''
 
 ---
 
@@ -15,7 +15,7 @@ Deliverable (Product) Version History | Example(s) |  Repository Type(s)    | No
 |VA Service Team|
  ⦁ Release Readiness Office<br> 
  ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. </br> |
-|VA Product| ⦁ BIO BIS </br> ⦁ EPRS</br>⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
+|VA Product| ⦁ BIO BIS </br> ⦁ EPRS </br>  ⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 
 ## EPMO Configuration Management VDD Audit Sheet
 ---
