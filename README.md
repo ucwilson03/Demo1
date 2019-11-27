@@ -7,9 +7,6 @@ Configuration Manager: ''
 
 ---
 
-| Document Vevision History
-And
-Deliverable (Product) Version History | Example(s) |  Repository Type(s)    | Notes |
 
 |:------------------------------------|:--------------------------------------------------------------------|:-----------------|
 |VA Service Team|
