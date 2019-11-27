@@ -17,15 +17,6 @@ Deliverable (Product) Version History | Example(s) |  Repository Type(s)    | No
  ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. </br> |
 |VA Product| ⦁ BIO BIS </br> ⦁ EPRS </br>  ⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 
-## EPMO Configuration Management VDD Audit Sheet
----
-name: New Version Description Audit
-reviewer: Tell the CM experts about an upcoming software release
-product name: "[PRODUCT] v[VERSION]"
-reviewer(s): "[NAME] v[TITLE]"
-configuration manager: ''
-
----
 
 Please check that you've completed the following, adding the appropriate version numbers and links to the checkbox items. See the Example Release below for details.
 
