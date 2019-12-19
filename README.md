@@ -10,9 +10,9 @@ Configuration Manager: ''
 
 |:------------------------------------|:--------------------------------------------------------------------|:-----------------|
 |VA Service Team|
- ⦁ Release Readiness Office<br> 
- ⦁ EPMO CMD|⦁ product repository| Service teams tend to source control documentation artifacts only. </br> |
-|VA Product| ⦁ BIO BIS </br> ⦁ EPRS </br>  ⦁ VDIF|⦁ product repository<br>⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
+ ⦁ Release Readiness Office <br> 
+ ⦁ EPMO CMD </br> ⦁ product repository </br> | Service teams tend to source control documentation artifacts only. </br> |
+|VA Product| ⦁ BIO BIS </br> ⦁ EPRS </br>  ⦁ VDIF|⦁ product repository<br> ⦁ code-project repository | VA products tend to source control both documentation and code artifacts. These repositories are based on code base and architecture. |
 
 
 Please check that you've completed the following, adding the appropriate version numbers and links to the checkbox items. See the Example Release below for details.
