@@ -6,11 +6,6 @@ product name: "[NAME] v [TITLE]"
 Configuration Manager: ''
 
 ---
-name: Version Description Audit Test Repo
-document revision history: Tell the CM experts about an upcoming software release
-product version history: "[PRODUCT] v [VERSION]"
-product name: "[NAME] v [TITLE]"
-Configuration Manager: ''
 
 
 |:------------------------------------|:--------------------------------------------------------------------|:-----------------|
