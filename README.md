@@ -1,8 +1,8 @@
 ---
-name: Version Description Audit Test Repo
-document revision history: Tell the CM experts about an upcoming software release
-product version history: "[PRODUCT] v [VERSION]"
-product name: "[NAME] v [TITLE]"
+Name: Version Description Audit Test Repo
+Document revision history: Tell the CM experts about an upcoming software release
+Product version history: "[PRODUCT] v [VERSION]"
+Product name: "[NAME] v [TITLE]"
 Configuration Management Engineer: ''
 
 ---
