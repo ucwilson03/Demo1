@@ -3,7 +3,7 @@ Name: Version Description Audit Test Repo
 Document revision history: Tell the CM experts about an upcoming software release
 Product version history: "[PRODUCT] v [VERSION]"
 Product name: "[NAME] v [TITLE]"
-Configuration Management Engineer: ''
+Configuration Management Engineer/ Analysis: ''
 
 ---
 
